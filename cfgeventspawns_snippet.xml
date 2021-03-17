@@ -1,0 +1,17 @@
+<!-- Custom building and structure snippet to be copied and pasted into your cfgeventspawns xml file -->
+
+<event name="StaticTent1">
+        <pos x="5082.52" z="2379.48" a="113.000000" />
+    </event>
+	<event name="StaticWatchTower1">
+        <pos x="5089.33" z="2360.03" a="113.000000" />
+    </event>
+	<event name="StaticHeli1">
+        <pos x="5066.48" z="2478.64" a="113.000000" />
+    </event> 
+	<event name="StaticHeli2">
+        <pos x="5122.87" z="2380.94" a="113.000000" />
+    </event>
+	<event name="StaticClinic">
+        <pos x="5033.91" z="2352.74" a="113.000000" />
+    </event>
